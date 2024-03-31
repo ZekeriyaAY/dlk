@@ -9,7 +9,7 @@ ARG DEBIAN_FRONTEND=noninteractive
 # https://www.kali.org/docs/general-use/metapackages/
 # https://www.kali.org/tools/kali-meta/
 ARG DESKTOP_ENV=xfce
-ARG SYSTEM_PKG=core
+ARG SYSTEM_PKG=default
 
 ARG RDP_PORT=3389
 
